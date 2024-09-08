@@ -2,8 +2,6 @@
 
 include::util::disclaimer.adoc[]
 
-==
-
 === § 1 Konstituierende Sitzung
 (1) Nach einer Neuwahl tritt das Studierendenparlament (SP) spätestens zwei Wochen nach
 Veröffentlichung des Wahlergebnisses zu seiner konstituierenden Sitzung zusammen.
