@@ -322,7 +322,7 @@ Jedes MdSP muss zu den Sitzungen erscheinen. Jedes Mitglied ist verpflichtet, si
 
 (2) Zu Beginn jeder Sitzung ist die Beschlussfähigkeit des SP festzustellen. Auf Antrag eines MdSP ist die Beschlussfähigkeit im Laufe der Sitzung zu überprüfen.
 
-(3) Wird die Beschlussunfähigkeit festgestellt, muss innerhalb einer Woche, jedoch frühestens 24 Stunden nach dem Beginn der als beschlussunfähig festgestellten Sitzung, eine weitere Sitzung des SP stattfinden. Bei dieser ist die Beschlussfähigkeit unabhängig von der Anzahl der anwesenden Mitglieder gegeben. Darauf muss in der Einladung hingewiesen werden. In diesem Fall gilt nicht die übliche Einladungsfrist nach <<_3_einberufung, § 3 Absatz 3>>.
+(3) Wird bei einer ordnungsgemäß einberufenen Sitzung die Beschlussunfähigkeit festgestellt, muss innerhalb einer Woche, jedoch frühestens 24 Stunden nach dem Beginn der als beschlussunfähig festgestellten Sitzung, eine weitere Sitzung des SP stattfinden. Bei dieser ist die Beschlussfähigkeit unabhängig von der Anzahl der anwesenden Mitglieder gegeben. Darauf muss in der Einladung hingewiesen werden. In diesem Fall gilt nicht die übliche Einladungsfrist nach <<_3_einberufung, § 3 Absatz 3>>.
 
 (4) In eine Einladung kann ein Ersatztermin aufgenommen werden für den Fall, dass das SP auf der einberufenen Sitzung beschlussunfähig ist. Diese Einladung gilt dann auch für den Ersatztermin. Absatz 3 Sätze 2 bis 3 gelten entsprechend. Wird eine Sitzung an einem Ersatztermin abgehalten, müssen zuvor alle MdSP unverzüglich benachrichtigt werden, wenn sie auf der Sitzung nicht anwesend waren.
 
@@ -549,7 +549,7 @@ Antragsberechtigte können bis zum Beginn der Beschlussfassung eines Antrages Ä
 
 (2) Zu Beginn der Aussprache ist zuerst den Antragstellenden Gelegenheit zur Vorstellung des Antrages zu geben. Anschließend ist die Aussprache zu eröffnen.
 
-(3) Die Sitzungsleitung eröffnet nach Abschluss der Aussprache die Beschlussfassung. Auf Wunsch eines Stimmberechtigten ist der Wortlaut der Anträge zu verlesen.
+(3) Die Sitzungsleitung eröffnet nach Abschluss der Aussprache die Beschlussfassung. Auf Wunsch einer stimmberechtigten Person ist der Wortlaut der Anträge zu verlesen.
 
 (4) Sind zu einem Antrag Änderungsanträge gestellt worden, so ist über diese vor dem Hauptantrag zu beschließen. Soweit den Änderungsanträgen zustimmt worden ist oder sie von der antragstellenden Person des Hauptantrages übernommen werden, wird der Hauptantrag in der geänderten Fassung zur Beschlussfassung gestellt.
 
